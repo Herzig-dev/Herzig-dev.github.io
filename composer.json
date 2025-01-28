@@ -1,0 +1,15 @@
+{
+	"name": "herzig/whitesoft",
+	"autoload": {
+		"psr-4": {
+			"WhiteSoft\\": "includes/"
+		}
+	},
+	"authors": [
+		{
+			"name": "Herzig",
+			"email": "sizooth1@gmail.com"
+		}
+	],
+	"require": {}
+}
